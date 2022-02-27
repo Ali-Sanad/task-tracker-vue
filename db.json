@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Watching Demon Slayer S02",
+      "day": "Next Week @ 3:30pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Watching Peaky Blinder S06",
+      "day": "Next Friday @ 6:30pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Watching One Piece Manga 1041",
+      "day": "Every Friday @1:00pm UTC +2",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
