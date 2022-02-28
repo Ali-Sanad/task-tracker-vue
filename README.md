@@ -23,5 +23,3 @@ yarn  dev
 ```
 yarn build
 ```
-
-##### Courtesy of Traversy Media
